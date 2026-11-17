@@ -1,0 +1,1 @@
+[{"origin_id": "e1", "revision": 1, "key": "a", "delta": 5, "expected_row_version": 0}, {"origin_id": "e2", "revision": 1, "key": "a", "delta": "bad", "expected_row_version": 1}]
